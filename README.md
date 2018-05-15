@@ -1,2 +1,6 @@
 # Hello-word
-just another repository
+just another 
+
+
+
+Learning to grow and developed
